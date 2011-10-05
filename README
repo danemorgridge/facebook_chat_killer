@@ -1,0 +1,11 @@
+To Install:
+
+Download the code to a folder. Any folder will do.
+
+Open Chrome and go to chrome://extensions
+
+click on "Developer Mode" and click "Load Unpacked Extension"
+
+Browse to the folder where you pulled the code down and select it
+
+It will now load when you open facebook
