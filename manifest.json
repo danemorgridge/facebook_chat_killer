@@ -1,0 +1,10 @@
+{
+  "name" : "Kill facebook chat column",
+  "version" : "1.0",
+  "content_scripts": [
+    {
+      "matches": ["http://www.facebook.com/*", "https://www.facebook.com/*"],
+      "js": ["jquery_init.js"]
+    }
+  ]
+}
